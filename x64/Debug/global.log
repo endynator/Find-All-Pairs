@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Games\ \prj\vs c++\global\main.cpp(255,21): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Games\ \prj\vs c++\global\main.cpp(96,10): warning C4101: 's': unreferenced local variable
+  global.vcxproj -> D:\Games\ \prj\vs c++\global\x64\Debug\global.exe
